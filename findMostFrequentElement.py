@@ -8,6 +8,6 @@ def most_frequent_element(lst):
     return most_common[0][0] if most_common else None
 
 # Example Usage
-lst = [1, 2, 2, 3, 3, 3, 4]
+lst = [1, 2, 2, 2, 3, 3, 3, 4]
 result = most_frequent_element(lst)
 print(result)
