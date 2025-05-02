@@ -9,5 +9,5 @@ def count_word_frequency(sentence):
 
 # Example Usage
 sentence = "this is a test sentence and this is a test"
-result = count_word_frequency(sentence)
-print(result)
+results = count_word_frequency(sentence)
+print(results)
