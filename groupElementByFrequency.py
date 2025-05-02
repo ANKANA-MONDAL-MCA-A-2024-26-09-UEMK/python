@@ -10,6 +10,6 @@ def group_by_frequency(lst):
     return dict(freq_dict)
 
 # Example Usage
-lst = [1, 2, 2, 3, 3, 3, 4]
+lst = [1, 2, 2, 3, 3, 4]
 result = group_by_frequency(lst)
 print(result)
