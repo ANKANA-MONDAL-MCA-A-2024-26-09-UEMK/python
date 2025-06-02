@@ -1,5 +1,4 @@
 # Program to Convert a List into a Dictionary
-
 def list_to_dict(lst):
     return {i: lst[i] for i in range(len(lst))}
 
